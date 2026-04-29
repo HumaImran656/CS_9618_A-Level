@@ -1,1 +1,12 @@
+title: "9618 A2 Computer Science - Python Course"
+description: "Structured learning platform for A Level Computer Science students"
+theme: minima
 
+markdown: kramdown
+
+header_pages:
+  - basics.md
+  - data_structures.md
+  - oop.md
+  - algorithms.md
+  - past_papers.md
