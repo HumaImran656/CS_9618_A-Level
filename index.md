@@ -1,4 +1,4 @@
-# 👨‍🏫 9618 A2 Python Course
+# 9618 A2 Python Course
 
 Welcome to your A Level Computer Science learning platform.
 
@@ -6,15 +6,15 @@ Welcome to your A Level Computer Science learning platform.
 
 ## 📚 Topics
 
-- 🟢 [Python Basics](basics.md)
-- 🔵 [Data Structures](data_structures.md)
-- 🟣 [OOP](oop.md)
-- 🟠 [Algorithms](algorithms.md)
-- 🔴 [Past Papers](past_papers.md)
+🟢 [Python Basics](basics.md)
+🔵 [Data Structures](data_structures.md)
+🟣 [OOP](oop.md)
+🟠 [Algorithms](algorithms.md)
+🔴 [Past Papers](past_papers.md)
 
 ---
 
-## 🎯 How to Use
+## How to Use
 
 1. Start from Basics  
 2. Practice examples  
@@ -23,9 +23,9 @@ Welcome to your A Level Computer Science learning platform.
 
 ---
 
-## 💡 About
+## About
 
-This website is designed to help students:
+This website is designed by Miss Huma Imran to help students:
 - Understand concepts clearly  
 - Practice exam-style questions  
 - Improve programming skills  
