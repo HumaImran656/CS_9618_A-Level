@@ -1,5 +1,7 @@
 # 🟢 Python Basics
 
+Welcome to basics section.
+
 ## 📘 Concept: Variables
 
 Variables store data in a program.
