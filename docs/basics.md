@@ -1,6 +1,6 @@
 # 🟢 Python Basics
 
-Welcome to basics section.
+Welcome to Basics Section.
 
 ## 📘 Concept: Variables
 
